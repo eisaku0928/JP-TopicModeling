@@ -1,5 +1,5 @@
 # JP-TopicModeling
-LDA topic modeling on Japanese news corpus, utilizing MeCab and gensim.
+LDA topic modeling (a form of information retrieval) on Japanese news corpus, utilizing MeCab and gensim.
 News corpus comes from a popular news website known as "Live Door News".
 [Topic Modeling](https://en.wikipedia.org/wiki/Topic_model) is an unsupervised machine learning technique used to statistically detect clusters of words and similar expressions to classify a set of text data or documents. In this case, each document is one news article, and there are 7367 Japanese news present within the corpus. Obviously this will have extensive capabilities in data analysis and interdisciplinary research, as it allows for the identification of common themes among a set of documents, i.e. unstructured data. By identifying topics within a set of social media posts for example, we may be able to identify common themes across similar groups of people, which has myriad use in psychological research. 
 
